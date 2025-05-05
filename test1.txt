@@ -1,2 +1,0 @@
-hello this is test1.txt file.
-modified from the local repo
